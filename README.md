@@ -26,7 +26,7 @@ just a chess board i made while learning c++. it prints an 8x8 board in the term
 
 ## how to run it
 
-you need a c++ compiler like g++
+you need a c++ compiler like g++ or gcc
 
 ```bash
 g++ chess.cpp -o chess
