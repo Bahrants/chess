@@ -7,7 +7,7 @@ just a chess board i made while learning c++. it prints an 8x8 board in the term
 ## what it does so far
 
 - prints a full chess board in the terminal
-- uses a 2d array to store piece positions
+- uses a 2d array to store piece positions 
 - shows column letters (a-h) and row numbers (1-8) so it actually looks like a real board
 - lowercase = black pieces, uppercase = white pieces
 - asks you to enter a move but doesnt do anything with it yet lol
@@ -37,7 +37,7 @@ g++ chess.cpp -o chess
 
 ## pieces key
 
-| symbol | piece |
+| symbol | piece | 
 |---|---|
 | K / k | King |
 | Q / q | Queen |
